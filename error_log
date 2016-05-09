@@ -1,0 +1,2 @@
+[14-Feb-2016 09:20:09 America/Chicago] PHP Warning:  require(/home/mysticindiaco/public_html/crm/bootstrap/paths.php): failed to open stream: No such file or directory in /home/mysticindiaco/public_html/crm/server.php on line 7
+[14-Feb-2016 09:20:09 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home/mysticindiaco/public_html/crm/bootstrap/paths.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mysticindiaco/public_html/crm/server.php on line 7
